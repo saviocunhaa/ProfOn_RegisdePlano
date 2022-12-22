@@ -1,6 +1,7 @@
 
 <h1 align="center"> Automação Professor Online - SEDUC </h1>
-REGISTRO DE PLANO POR PERIODO E DATA
+<h2 align="center"> REGISTRO DE PLANO POR PERIODO E DATA </h2>
+
 
 <p align="center">
 Automção para agiliar alguns passos repetitivos de sistema
